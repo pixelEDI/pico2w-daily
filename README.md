@@ -42,6 +42,8 @@
 - IO Board: https://dfrobot.com/product-2390.html | [Wiki](https://wiki.dfrobot.com/PICO_IO_Expansion_Shield_SKU_DFR0836) | [3D Case](https://printables.com/model/1438612)
 - SW-420 Magnetic Mount: https://printables.com/model/228197
 
+**Hinweis:** Die Amazon-Links sind Affiliate-Links – du zahlst den gleichen Preis, ich erhalte eine kleine Provision zur Unterstützung des Projekts.
+
 ## 📤 Upload auf Pico
 ```bash
 mpremote fs cp tagXX_*/main.py :main.py  # Hochladen
