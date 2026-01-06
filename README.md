@@ -1,6 +1,9 @@
 # 🚀 29 Tage Raspberry Pi Pico 2W Challenge
 **DC Motor-Steuerung Februar 2026** | Ein Motor viele Steuerungsmethoden!
 
+## 🎓 Online-Kurs zur Challenge
+Lerne alles Schritt für Schritt im **Pico 2W Komplettkurs**: https://pixeledi.eu/akademie/pico  
+💰 **Rabattcode sichern:** https://pixeledi.eu/daily
 
 ## 🔌 Basis-Verkabelung
 | Pico 2W | → | L298N | → | Extern |
